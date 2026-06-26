@@ -217,6 +217,16 @@ main {
     background-image: linear-gradient(to bottom,  hsl(252, 100%, 67%), hsl(241, 81%, 50%) );
 }
 
+.attribution {
+        margin-top: 3em;
+        font-size: 1.5em;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 52%, 11%);
+        font-size: 1em;
+      }
+
 @media (min-width:350px) and (max-width:768px) {
     body{
         padding: 0%;
@@ -281,7 +291,7 @@ main {
     }
 
      .attribution {
-        margin-top: 3em;
+        margin-top: 2em;
         font-size: 0.7em;
         text-align: center;
       }
