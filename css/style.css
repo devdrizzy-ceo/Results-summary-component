@@ -279,4 +279,10 @@ main {
     .last-card{
         margin-top: 1em;
     }
+
+     .attribution {
+        margin-top: 3em;
+        font-size: 0.7em;
+        text-align: center;
+      }
 }
